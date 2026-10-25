@@ -1,0 +1,3 @@
+target_file_field_lut: /home/iris/wildan/prog_baru/src/vision/../../config/IRIS2/data_yuv/field/lut_2023_01_16_16_36.bin
+target_file_ball_lut: /home/iris/wildan/prog_baru/src/vision/../../config/IRIS2/data_yuv/ball/lut_2023_01_16_16_42.bin
+target_file_line_lut: /home/iris/wildan/prog_baru/src/vision/../../config/IRIS2/data_yuv/line/lut_2023_01_16_16_46.bin
